@@ -1,0 +1,39 @@
+VideoLUA /Studio — Proprietary Freeware License
+
+Copyright (c) 2026 SparkyCFW
+All rights reserved.
+
+
+1. GRANT OF LICENSE
+The copyright holder grants you a non-exclusive, revocable, non-transferable, royalty-free license to download, install, and use unmodified copies of VideoLUA /Studio (the "Software") for personal or commercial purposes, subject to these terms.
+
+2. FREE OF CHARGE
+The Software is provided free of charge. This license does not grant permission to sell the Software, charge for access to it, or include it in a paid software bundle without prior written permission from the copyright holder.
+
+3. RESTRICTIONS
+Except with prior written permission from the copyright holder, or to the extent expressly permitted by applicable law or applicable third-party licenses, you may not:
+(a) redistribute, mirror, sublicense, rent, lease, or resell the Software;
+(b) modify, adapt, or create derivative works of the Software;
+(c) reverse-engineer, decompile, or disassemble the Software;
+(d) remove or alter copyright, trademark, or other proprietary notices; or
+(e) represent yourself as the author or official publisher of the Software.
+
+4. OWNERSHIP
+The Software is licensed, not sold. The copyright holder retains all right, title, and interest in the Software, except for components owned by third parties.
+
+5. THIRD-PARTY COMPONENTS
+The Software may include FFmpeg and other third-party components. Such components are governed by their own applicable licenses, which take precedence over conflicting restrictions in this license for those components. Nothing in this license limits rights granted under those third-party licenses. See the accompanying third-party notices and the FFmpeg project website at https://ffmpeg.org/legal.html.
+
+6. NO WARRANTY
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE," WITHOUT WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+7. LIMITATION OF LIABILITY
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE COPYRIGHT HOLDER SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, OR LOSS OF DATA, PROFITS, OR BUSINESS, ARISING FROM USE OF OR INABILITY TO USE THE SOFTWARE.
+
+8. TERMINATION
+Your rights under this license terminate if you materially breach its terms. Upon termination, you must cease using and delete copies of the Software in your possession, except where retention or use is permitted by applicable law or a third-party license.
+
+9. CONTACT AND PERMISSIONS
+Requests for redistribution, modification, or other permissions should be directed to the copyright holder through the project's official GitHub repository.
+
+This license applies only to original VideoLUA /Studio code and assets owned by the copyright holder. It does not replace or override licenses of third-party components.
