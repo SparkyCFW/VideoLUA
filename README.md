@@ -25,7 +25,7 @@ Get the latest published files from **[VideoLUA /Studio — GitHub Releases](htt
 | Platform | Download | Notes |
 | --- | --- | --- |
 | **Windows x64** | `VideoLUA.exe` | Portable; Windows release **v1.0.0** |
-| **Mac — Apple Silicon** | `VideoLUA-v1.0.0-macOS-arm64.dmg.dmg` | For M-series Macs; macOS **14+** |
+| **Mac — Apple Silicon** | `VideoLUA-v1.0.0-macOS-arm64.dmg` | For M-series Macs; macOS **14+** |
 | **Mac — Intel** | `VideoLUA-v1.0.0-macOS-x64.dmg` | For Intel Macs; macOS **14+** |
 
 **Version note:** Windows and macOS are both **v1.0.0**, published together in the same GitHub release.
