@@ -25,10 +25,10 @@ Get the latest published files from **[VideoLUA /Studio — GitHub Releases](htt
 | Platform | Download | Notes |
 | --- | --- | --- |
 | **Windows x64** | `VideoLUA.exe` | Portable; Windows release **v1.0.0** |
-| **Mac — Apple Silicon** | `VideoLUA-v0.9.0-macOS-arm64.dmg` | For M-series Macs; macOS **14+** |
-| **Mac — Intel** | `VideoLUA-v0.9.0-macOS-x64.dmg` | For Intel Macs; macOS **14+** |
+| **Mac — Apple Silicon** | `VideoLUA-v1.0.0-macOS-arm64.dmg` | For M-series Macs; macOS **14+** |
+| **Mac — Intel** | `VideoLUA-v1.0.0-macOS-x64.dmg` | For Intel Macs; macOS **14+** |
 
-**Version note:** The existing Windows release is **v1.0.0**. The macOS applications identify themselves as **v0.9.0**, even if their installers are attached to the same GitHub release.
+**Version note:** Windows and macOS are both **v1.0.0**, published together in the same GitHub release.
 
 ### Windows installation
 
@@ -46,6 +46,15 @@ The Windows x64 release includes the .NET runtime and FFmpeg. It does not requir
 The macOS releases are self-contained and include the .NET runtime, FFmpeg, and FFprobe. **Homebrew, FFmpeg, and .NET do not need to be installed separately.**
 
 **macOS security notice:** These builds are **ad-hoc signed, not Apple Developer ID signed or notarized**. macOS may block the first launch. If you downloaded VideoLUA from this official release and trust the file, try opening the app once, then go to **System Settings → Privacy & Security → Open Anyway** and confirm. Do not globally disable Gatekeeper. Managed Macs may prevent this override.
+
+## What's new
+
+### macOS v1.0.0
+
+- Exported widgets now center themselves in the widget zone, so animations line up in any widget size, including slim slots such as a 1x6 layout.
+- Frames larger than the widget zone are scaled down to fit, keeping their proportions.
+- New **ShowSize** option in the widget settings displays the exact pixel size of the widget slot, to help you pick output dimensions.
+- Fixed GIFs and WebM files that report no duration, which could fail to load or show a wrong timeline.
 
 ## How to use
 
