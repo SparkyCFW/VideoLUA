@@ -49,11 +49,20 @@ The macOS releases are self-contained and include the .NET runtime, FFmpeg, and 
 
 ## What's new
 
+### Windows v1.0.0
+
+- GIF, MOV and WebM files now play in the previews and on the timeline, and GIFs no longer freeze.
+- Renaming a video now updates its name in the queue, not just the exported widget.
+- Fixed crashes when switching between videos during playback and when closing the window.
+- Exported widgets now center themselves in the widget zone, so animations line up in any widget size, including slim slots such as a 1x6 layout.
+- Frames larger than the widget zone are scaled down to fit, keeping their proportions.
+- New **ShowSize** option in the widget settings displays the exact pixel size of the widget slot.
+
 ### macOS v1.0.0
 
 - Exported widgets now center themselves in the widget zone, so animations line up in any widget size, including slim slots such as a 1x6 layout.
 - Frames larger than the widget zone are scaled down to fit, keeping their proportions.
-- New **ShowSize** option in the widget settings displays the exact pixel size of the widget slot, to help you pick output dimensions.
+- New **ShowSize** option in the widget settings displays the exact pixel size of the widget slot.
 - Fixed GIFs and WebM files that report no duration, which could fail to load or show a wrong timeline.
 
 ## How to use
